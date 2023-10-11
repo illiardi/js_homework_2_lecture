@@ -86,3 +86,7 @@ console.log(MyHome);
 // Deleted start row
 
 // MyHome.shift();
+
+// Deleted end row
+
+// MyHome.pop();
