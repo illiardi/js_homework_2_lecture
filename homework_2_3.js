@@ -7,6 +7,10 @@ console.log(MyFruits);
 
 MyFruits.push("strawberry");
 
-//Changed fruits number 3
+//Changed fruits idex 3
 
 MyFruits[3] = "cherry";
+
+// Delete second index
+
+delete MyFruits[1];
