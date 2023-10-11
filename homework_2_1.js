@@ -73,10 +73,12 @@ console.log(MyHome);
 
 // ЗВернення до певного індексу
 
-console.log(MyHome[2]);
+// console.log(MyHome[2]);
 
 // Add to end
 
-MyHome.push({});
+// MyHome.push({});
 
 // Add to start
+
+MyHome.unshift({});
