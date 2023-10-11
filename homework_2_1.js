@@ -81,4 +81,8 @@ console.log(MyHome);
 
 // Add to start
 
-MyHome.unshift({});
+// MyHome.unshift({});
+
+// Deleted start row
+
+// MyHome.shift();
