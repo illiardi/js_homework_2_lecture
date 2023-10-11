@@ -68,3 +68,11 @@ console.log(MyTable);
 
 const MyHome = [{MyTable}, {MyLaptop}, {MySmartPhone}];
 console.log(MyHome);
+
+// ЗВернення до певного індексу
+
+console.log(MyHome[2]);
+
+// Add to end
+
+// Add to start
