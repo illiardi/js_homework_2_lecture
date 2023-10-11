@@ -66,6 +66,8 @@ const MyTable = {
 
 console.log(MyTable);
 
+// Massive
+
 const MyHome = [{MyTable}, {MyLaptop}, {MySmartPhone}];
 console.log(MyHome);
 
@@ -74,5 +76,7 @@ console.log(MyHome);
 console.log(MyHome[2]);
 
 // Add to end
+
+MyHome.push({});
 
 // Add to start
